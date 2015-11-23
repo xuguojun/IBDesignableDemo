@@ -21,5 +21,7 @@ IB_DESIGNABLE
 
 [在Xcode6中使用IBDesignable创建自定义控件(翻译)](http://www.jianshu.com/p/18b10ed2acd5)
 
-长按识别图中二维码即可关注我的微信公众号：MetaJiJing。
+扫描图中二维码即可关注我的微信公众号：MetaJiJing和iOSJiJing。
 A元机经将为iOS工程师们分享Cocoa程序开发中的知识点、解决方案和心得等。这里的文章短小精悍，可读性强，可充分利用你零碎的时间学习充电。
+![iOS元机经](https://raw.githubusercontent.com/xuguojun/IBDesignableDemo/master/IBDesignableDemo/iOSMetaJiJing.jpg)
+![A元机经](https://raw.githubusercontent.com/xuguojun/IBDesignableDemo/master/IBDesignableDemo/AYuanJiJing.jpg)
